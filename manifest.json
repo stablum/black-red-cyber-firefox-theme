@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Black Red Cyber Theme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A clean-room static browser theme with a true-black foundation, brighter toolbar fields, and higher-contrast tab text.",
   "author": "Francesco Stablum",
   "homepage_url": "https://github.com/stablum/black-red-cyber-firefox-theme",
@@ -28,7 +28,7 @@
       "toolbar_field_focus": "#05070a",
       "toolbar_field_text_focus": "#ffffff",
       "toolbar_field_border": "#1d2430",
-      "toolbar_field_border_focus": "#8b98aa",
+      "toolbar_field_border_focus": "#ff5a5a",
       "toolbar_field_highlight": "#9db4d4",
       "toolbar_field_highlight_text": "#000000",
       "popup": "#050608",
