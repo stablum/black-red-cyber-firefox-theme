@@ -1,0 +1,57 @@
+{
+  "manifest_version": 2,
+  "name": "Black Red Cyber Firefox Theme",
+  "version": "0.1.0",
+  "description": "A clean-room static Firefox theme with a true-black foundation, brighter toolbar fields, and higher-contrast tab text.",
+  "author": "Francesco Stablum",
+  "homepage_url": "https://github.com/stablum/black-red-cyber-firefox-theme",
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "black-red-cyber-firefox-theme@stablum.dev"
+    }
+  },
+  "theme": {
+    "colors": {
+      "frame": "#000000",
+      "frame_inactive": "#040404",
+      "tab_background_text": "#c2cad3",
+      "tab_selected": "#000000",
+      "tab_text": "#f5f8fb",
+      "tab_line": "#7e8792",
+      "toolbar": "#000000",
+      "toolbar_text": "#eff3f7",
+      "bookmark_text": "#e2e8ef",
+      "icons": "#d8dee6",
+      "icons_attention": "#ff5a5a",
+      "toolbar_field": "#0a0d11",
+      "toolbar_field_text": "#e9eef5",
+      "toolbar_field_focus": "#05070a",
+      "toolbar_field_text_focus": "#ffffff",
+      "toolbar_field_border": "#1d2430",
+      "toolbar_field_border_focus": "#8b98aa",
+      "toolbar_field_highlight": "#9db4d4",
+      "toolbar_field_highlight_text": "#000000",
+      "popup": "#050608",
+      "popup_text": "#eef2f7",
+      "popup_highlight": "#121720",
+      "popup_highlight_text": "#ffffff",
+      "popup_border": "#1d2430",
+      "sidebar": "#050608",
+      "sidebar_text": "#eef2f7",
+      "sidebar_highlight": "#121720",
+      "sidebar_highlight_text": "#ffffff",
+      "sidebar_border": "#1d2430",
+      "ntp_background": "#000000",
+      "ntp_text": "#e9eef5",
+      "ntp_card_background": "#0a0d11",
+      "ntp_card_text": "#e9eef5",
+      "toolbar_top_separator": "#0d1015",
+      "toolbar_bottom_separator": "#0d1015",
+      "toolbar_vertical_separator": "#171c24"
+    },
+    "properties": {
+      "color_scheme": "dark",
+      "content_color_scheme": "dark"
+    }
+  }
+}
