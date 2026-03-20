@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
-  "name": "Black Red Cyber Firefox Theme",
-  "version": "0.1.0",
-  "description": "A clean-room static Firefox theme with a true-black foundation, brighter toolbar fields, and higher-contrast tab text.",
+  "name": "Black Red Cyber Theme",
+  "version": "0.1.1",
+  "description": "A clean-room static browser theme with a true-black foundation, brighter toolbar fields, and higher-contrast tab text.",
   "author": "Francesco Stablum",
   "homepage_url": "https://github.com/stablum/black-red-cyber-firefox-theme",
   "browser_specific_settings": {
     "gecko": {
-      "id": "black-red-cyber-firefox-theme@stablum.dev"
+      "id": "black-red-cyber-theme@stablum.dev"
     }
   },
   "theme": {

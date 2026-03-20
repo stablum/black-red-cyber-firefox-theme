@@ -6,7 +6,7 @@ $tempDir = Join-Path $distDir "package"
 $manifestPath = Join-Path $repoRoot "manifest.json"
 $manifest = Get-Content $manifestPath | ConvertFrom-Json
 $version = $manifest.version
-$artifactBaseName = "black-red-cyber-firefox-theme-$version"
+$artifactBaseName = "black-red-cyber-theme-$version"
 $zipPath = Join-Path $distDir "$artifactBaseName.zip"
 $xpiPath = Join-Path $distDir "$artifactBaseName.xpi"
 

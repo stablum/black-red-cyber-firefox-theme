@@ -1,4 +1,4 @@
-# Black Red Cyber Firefox Theme
+# Black Red Cyber Theme
 
 This repository contains a clean-room Firefox static theme inspired by the public look and behavior of the `black21` AMO theme.
 
@@ -25,7 +25,7 @@ Run this from the repository root:
 .\scripts\package.ps1
 ```
 
-The packaged add-on will be written to `dist/black-red-cyber-firefox-theme-<version>.xpi`.
+The packaged add-on will be written to `dist/black-red-cyber-theme-<version>.xpi`.
 
 ## Notes
 
